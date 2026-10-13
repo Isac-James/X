@@ -1,0 +1,6 @@
+{
+  "name": "PulseX - AI Auto-Posting & Analytics Engine",
+  "description": "Automated X (Twitter) posting engine with interval cadence, trending hashtag discovery, detailed performance analytics, follower growth radar, and AI-powered trend-driven tweet generator.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
